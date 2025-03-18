@@ -1,0 +1,63 @@
+*{
+  background-color: #322142;
+}
+.title{
+  border-color: white;
+  color: white;
+  outline-color: purple;
+  outline-width: 32px;
+  font-family: Courier;
+  font-size: 50px;
+  font-weight: 15px;
+  text-shadow: black;
+  box-shadow: black;
+  outline: black;
+  animation-play-state:
+  
+}
+hr{
+  opacity: 0.7;
+  
+}
+.info{
+  color: white;
+  font-size: 35px;
+  word-spacing: 5;
+  font-family: Serif;
+}
+.infosPar{
+  color: white;
+  font-size: 40px;
+  font-family: Serif;
+  
+}
+.WorksTT{
+  border-color: white;
+  color: white;
+  outline-color: purple;
+  outline-width: 32px;
+  font-family: Courier;
+  font-size: 50px;
+  font-weight: 15px;
+  text-shadow: black;
+  box-shadow: black;
+  outline: black;
+  animation-play-state:
+}
+.Video 1{
+  width: 40px;
+}
+.SocBT{
+  color: white;
+  text-decoration: none;
+  font-family: Serif;
+  font-size: 35px;
+}
+.SocBT:hover{
+  transform: scale(1.1);
+}
+.footer{
+  color: white;
+}
+ 
+
